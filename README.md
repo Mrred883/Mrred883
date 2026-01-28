@@ -95,6 +95,7 @@ Using tools like [Terraform](https://developer.hashicorp.com/terraform), [GitHub
     <a href='https://www.credly.com/badges/6dccf0c7-fdc3-4c83-9b18-55a1e5bdff2b'><img width="50" height="472" src="https://github.com/user-attachments/assets/c9722499-1bca-462c-a193-5e5ee59a2851"></a>&nbsp;&nbsp;
     <a href='https://www.credly.com/badges/979b4354-533e-4f36-8929-ce55e5216509'><img width="50" height="472" src="https://github.com/user-attachments/assets/2e81bc61-5576-47be-bd6f-f931391dde77"></a>&nbsp;&nbsp;
     <a href='https://www.coursera.org/account/accomplishments/professional-cert/WW9644437KWW'><img width="45" height="472" src="https://github.com/user-attachments/assets/354c4f70-2bb7-4bf7-b5e2-d118c35c94a4"></a>&nbsp;&nbsp;
+    <a href='https://www.coursera.org/account/accomplishments/certificate/1B2PK3CJO8YZ'><img width="45" height="472" src="https://github.com/user-attachments/assets/80fed28d-5e87-4bbe-ab8e-6318f46a097b"></a>&nbsp;&nbsp;
 </p>
 
 
