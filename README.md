@@ -2,7 +2,7 @@
 
 ## About
 
-Hi👋, I'm Onyekachi Agudosi
+Hi👋, I'm Onyekachi Agudosi ( Chris )
 
 I'm a DevSecOps and Security Automation Engineer who enjoys helping teams move fast without cutting corners on security.
 
