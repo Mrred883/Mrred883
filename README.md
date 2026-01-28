@@ -21,7 +21,6 @@ Using tools like [Terraform](https://developer.hashicorp.com/terraform), [GitHub
 ![IAM](https://img.shields.io/badge/IAM-Identity_&_Access-4B5563)
 ![KMS](https://img.shields.io/badge/KMS-Key_Management-6B7280)
 ![GuardDuty](https://img.shields.io/badge/GuardDuty-Threat_Detection-FF9900?logo=amazonaws&logoColor=white)
-![Wiz](https://img.shields.io/badge/Wiz-CSPM-6C47FF)
 ![Lacework](https://img.shields.io/badge/Lacework-CSPM-0B3D91)
 
 #### ⚙️ DevSecOps & Automation
@@ -69,14 +68,10 @@ Using tools like [Terraform](https://developer.hashicorp.com/terraform), [GitHub
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-Compliance-1A365D)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-Cybersecurity_Framework-4A5568)
 ![Risk Assessments](https://img.shields.io/badge/Risk_Assessments-GRC-975A16)
-![Configuration Compliance](https://img.shields.io/badge/Config_Compliance-Security_Baselines-2C5282)
-
 
 #### 🌐 Networking & Protocol Analysis
-
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?logo=wireshark&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-Network_Troubleshooting-4B5563)
 ![VPN](https://img.shields.io/badge/VPN-Secure_Networking-0E7490)
 ![Firewall Policies](https://img.shields.io/badge/Firewall_Policies-Network_Security-B91C1C)
-
