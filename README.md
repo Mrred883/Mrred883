@@ -78,5 +78,5 @@ Using tools like [Terraform](https://developer.hashicorp.com/terraform), [GitHub
 
 ## Hands-On Security Labs
 
-| <img width="512" height="472" alt="unnamed" src="https://github.com/user-attachments/assets/997ed9d5-2cab-4626-bfc5-3ee00c2df85f"/> | [View Here →](https://docs.google.com/document/d/109X6dA24WOrVagjm7TuPsqU5JAKi-HVywlWP6ICRT4I/edit?tab=t.0) |
-| :--- | :--- |
+| <img width="40" height="472" alt="unnamed" src="https://github.com/user-attachments/assets/997ed9d5-2cab-4626-bfc5-3ee00c2df85f"/> | [View Here →](https://docs.google.com/document/d/109X6dA24WOrVagjm7TuPsqU5JAKi-HVywlWP6ICRT4I/edit?tab=t.0) |
+| :---: | :---: |
