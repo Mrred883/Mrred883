@@ -75,3 +75,8 @@ Using tools like [Terraform](https://developer.hashicorp.com/terraform), [GitHub
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-Network_Troubleshooting-4B5563)
 ![VPN](https://img.shields.io/badge/VPN-Secure_Networking-0E7490)
 ![Firewall Policies](https://img.shields.io/badge/Firewall_Policies-Network_Security-B91C1C)
+
+## Hands-On Security Labs
+
+| <img width="512" height="472" alt="unnamed" src="https://github.com/user-attachments/assets/997ed9d5-2cab-4626-bfc5-3ee00c2df85f"/> | [View Here →](https://docs.google.com/document/d/109X6dA24WOrVagjm7TuPsqU5JAKi-HVywlWP6ICRT4I/edit?tab=t.0) |
+| :--- | :--- |
