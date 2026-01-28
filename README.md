@@ -89,7 +89,14 @@ Using tools like [Terraform](https://developer.hashicorp.com/terraform), [GitHub
 
 ## Certificates
 
-| ![CISSP](https://img.shields.io/badge/CISSP-ISC2-006699?style=flat-square&logo=isc2&logoColor=white) | ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | ![CKA](https://img.shields.io/badge/CKA-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![CISA](https://img.shields.io/badge/CISA-ISACA-0033A0?style=flat-square&logo=isaca&logoColor=white) | ![GCTI](https://img.shields.io/badge/GCTI-GIAC-800000?style=flat-square) | ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-D22128?style=flat-square&logo=comptia&logoColor=white) | ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white) |
-|:---:|:---:|:---:|:---:|:--:|:---:|:---:|
+<p align="left">
+    <a href='https://www.credly.com/badges/210c8fad-3003-43a2-b583-23424abf1885'><img width="50" height="472" src="https://github.com/user-attachments/assets/7307b94c-a068-4671-be02-c2570c1dd567"></a>&nbsp;&nbsp;
+    <a href='https://www.credly.com/badges/3c870fd1-dc11-44f6-b7e9-23b680f92671'><img width="50" height="472" src="https://github.com/user-attachments/assets/a08e5dfc-c7bc-4adf-afe8-52d66aeeebed"></a>&nbsp;&nbsp;
+    <a href='https://www.credly.com/badges/6dccf0c7-fdc3-4c83-9b18-55a1e5bdff2b'><img width="50" height="472" src="https://github.com/user-attachments/assets/c9722499-1bca-462c-a193-5e5ee59a2851"></a>&nbsp;&nbsp;
+    <a href='https://www.credly.com/badges/979b4354-533e-4f36-8929-ce55e5216509'><img width="50" height="472" src="https://github.com/user-attachments/assets/2e81bc61-5576-47be-bd6f-f931391dde77"></a>&nbsp;&nbsp;
+    <a href='https://www.coursera.org/account/accomplishments/professional-cert/WW9644437KWW'><img width="45" height="472" src="https://github.com/user-attachments/assets/354c4f70-2bb7-4bf7-b5e2-d118c35c94a4"></a>&nbsp;&nbsp;
+</p>
+
+
 
 
