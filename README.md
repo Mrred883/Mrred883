@@ -87,3 +87,9 @@ Using tools like [Terraform](https://developer.hashicorp.com/terraform), [GitHub
     <a href='https://docs.google.com/document/d/1uXju1Rd76Ttb0NyBjGikEyREuv5tZ75uJ9npMgqzrNQ/edit?usp=sharing'><img width="50" height="472" src="https://github.com/user-attachments/assets/a88076cd-b3aa-4d86-ac6e-4d37fdeec881"></a>
 </p>
 
+## Certificates
+
+| ![CISSP](https://img.shields.io/badge/CISSP-ISC2-006699?style=flat-square&logo=isc2&logoColor=white) | ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | ![CKA](https://img.shields.io/badge/CKA-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![CISA](https://img.shields.io/badge/CISA-ISACA-0033A0?style=flat-square&logo=isaca&logoColor=white) | ![GCTI](https://img.shields.io/badge/GCTI-GIAC-800000?style=flat-square) | ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-D22128?style=flat-square&logo=comptia&logoColor=white) | ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white) |
+|:---:|:---:|:---:|:---:|:--:|:---:|:---:|
+
+
