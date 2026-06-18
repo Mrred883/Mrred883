@@ -81,12 +81,12 @@ Using tools like Terraform, GitHub Actions, Python, and Kubernetes, I focus on c
 ## Hands-On Security Labs
 
 <p align="left">
-    <a href='https://docs.google.com/document/d/109X6dA24WOrVagjm7TuPsqU5JAKi-HVywlWP6ICRT4I/edit?usp=sharing'><img width="100" src="https://github.com/user-attachments/assets/997ed9d5-2cab-4626-bfc5-3ee00c2df85f"></a>&nbsp;&nbsp;&nbsp;
-    <a href='https://docs.google.com/document/d/1IF2t38BsQt6YRvJru8_VKC6Kjp7-YMAjhWNYhRnUDWg/edit?usp=sharing'><img width="100" src="https://github.com/user-attachments/assets/ecb5f828-e4f7-4a71-b102-8853f5c478f1"></a>&nbsp;&nbsp;&nbsp;
-    <a href='https://docs.google.com/document/d/1itD3-cEj19Fl30f2lw1GIA--V9HaFTRzD1Qzdmtyjt8/edit?usp=sharing'><img width="100" src="https://github.com/user-attachments/assets/098a1eb1-260a-414e-9abe-07cc66a25f56"></a>&nbsp;&nbsp;&nbsp;
-    <a href='https://docs.google.com/document/d/17YOeq0DoncjduYqqJIJFdGxuVDkEEUgIEDosoXPoY_U/edit?usp=sharing'><img width="100" src="https://github.com/user-attachments/assets/b43aa268-380e-407b-a091-a2b0463a68f1"></a>&nbsp;&nbsp;&nbsp;
-    <a href='https://docs.google.com/document/d/1aUwDNPgdSygworUXLP2rFBE41OVUBwwO1REWjMoP6jw/edit?usp=sharing'><img width="100" src="https://github.com/user-attachments/assets/675177ec-7def-4a07-8214-58b8581be6a4"></a>&nbsp;&nbsp;&nbsp;
-    <a href='https://docs.google.com/document/d/1uXju1Rd76Ttb0NyBjGikEyREuv5tZ75uJ9npMgqzrNQ/edit?usp=sharing'><img width="100" src="https://github.com/user-attachments/assets/a88076cd-b3aa-4d86-ac6e-4d37fdeec881"></a>
+    <a href='https://docs.google.com/document/d/109X6dA24WOrVagjm7TuPsqU5JAKi-HVywlWP6ICRT4I/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/997ed9d5-2cab-4626-bfc5-3ee00c2df85f"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://docs.google.com/document/d/1IF2t38BsQt6YRvJru8_VKC6Kjp7-YMAjhWNYhRnUDWg/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/58b76824-0d13-4775-b1d6-e298958bd159"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://docs.google.com/document/d/1itD3-cEj19Fl30f2lw1GIA--V9HaFTRzD1Qzdmtyjt8/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/37bbb063-da0b-479c-abad-4c13aee10d0f"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://docs.google.com/document/d/17YOeq0DoncjduYqqJIJFdGxuVDkEEUgIEDosoXPoY_U/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/b3fb467e-2eb0-49c8-adfa-bf9b340a0586"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://docs.google.com/document/d/1aUwDNPgdSygworUXLP2rFBE41OVUBwwO1REWjMoP6jw/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/dd8a1f17-82ea-463a-b94e-a8ae45beeb34"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://docs.google.com/document/d/1uXju1Rd76Ttb0NyBjGikEyREuv5tZ75uJ9npMgqzrNQ/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/8d29e415-4590-4384-b4bb-ac3f0e12c557"></a>
 </p>
 
 ## Certificates
