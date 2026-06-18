@@ -81,7 +81,7 @@ Using tools like Terraform, GitHub Actions, Python, and Kubernetes, I focus on c
 ## Hands-On Security Labs
 
 <p align="left">
-    <a href='https://docs.google.com/document/d/109X6dA24WOrVagjm7TuPsqU5JAKi-HVywlWP6ICRT4I/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/997ed9d5-2cab-4626-bfc5-3ee00c2df85f"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://docs.google.com/document/d/109X6dA24WOrVagjm7TuPsqU5JAKi-HVywlWP6ICRT4I/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/034dcb18-4aff-4e0e-8158-af030da35fc7"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://docs.google.com/document/d/1IF2t38BsQt6YRvJru8_VKC6Kjp7-YMAjhWNYhRnUDWg/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/58b76824-0d13-4775-b1d6-e298958bd159"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://docs.google.com/document/d/1itD3-cEj19Fl30f2lw1GIA--V9HaFTRzD1Qzdmtyjt8/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/37bbb063-da0b-479c-abad-4c13aee10d0f"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://docs.google.com/document/d/17YOeq0DoncjduYqqJIJFdGxuVDkEEUgIEDosoXPoY_U/edit?usp=sharing'><img width="60" src="https://github.com/user-attachments/assets/b3fb467e-2eb0-49c8-adfa-bf9b340a0586"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
