@@ -2,6 +2,8 @@
 <img width="2428" height="560" alt="Banner" src="https://github.com/user-attachments/assets/7276ebc0-ddc6-48c8-9fe6-dcf76d44dc43">
 </a>
 
+<br>
+
 <p align="center">
   <a href="https://onyekachiagudosi.netlify.app/">
     <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Portfolio" />
