@@ -2,6 +2,26 @@
 <img width="2428" height="560" alt="Banner" src="https://github.com/user-attachments/assets/7276ebc0-ddc6-48c8-9fe6-dcf76d44dc43">
 </a>
 
+&nbsp;
+
+<p align="center">
+  <a href="https://onyekachiagudosi.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/onyekachiagudosi">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Mrred883">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:o.agudosi88@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/onyekachiag">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter / X" />
+  </a>
+</p>
+
 ## About
 
 Hi👋, I'm Onyekachi Agudosi (Chris).
