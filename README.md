@@ -12,7 +12,7 @@ I've worked in large cloud environments where reliability really matters, buildi
 
 I'm especially interested in practical security - things like Zero Trust, cloud security, and compliancedone in a way that supports developers instead of slowing them down.
 
-Using tools like [Terraform](https://developer.hashicorp.com/terraform), [GitHub Actions](https://github.com/features/actions), [Python](https://github.com/features/actions), and [Kubernetes](https://kubernetes.io/), I focus on creating systems that are secure, scalable, and easier for teams to work with every day.
+Using tools like Terraform, GitHub Actions, Python, and Kubernetes, I focus on creating systems that are secure, scalable, and easier for teams to work with every day.
 
 ## Skills
 
@@ -91,5 +91,11 @@ Using tools like [Terraform](https://developer.hashicorp.com/terraform), [GitHub
 
 ## Certificates
 
-| <a href='https://www.coursera.org/account/accomplishments/certificate/1B2PK3CJO8YZ'><img width="80" src="https://github.com/user-attachments/assets/80fed28d-5e87-4bbe-ab8e-6318f46a097b"></a> | <a href='https://www.credly.com/badges/210c8fad-3003-43a2-b583-23424abf1885'><img width="80" src="https://github.com/user-attachments/assets/ce8387da-278c-4327-9a3a-d735cf4569c7"></a> | <a href='https://www.credly.com/badges/3c870fd1-dc11-44f6-b7e9-23b680f92671'><img width="80" src="https://github.com/user-attachments/assets/a08e5dfc-c7bc-4adf-afe8-52d66aeeebed"></a> | <a href='https://www.credly.com/badges/6dccf0c7-fdc3-4c83-9b18-55a1e5bdff2b'><img width="80" src="https://github.com/user-attachments/assets/c9722499-1bca-462c-a193-5e5ee59a2851"></a> | <a href='https://www.credly.com/badges/979b4354-533e-4f36-8929-ce55e5216509'><img width="80" src="https://github.com/user-attachments/assets/2e81bc61-5576-47be-bd6f-f931391dde77"></a> | <a href='https://www.coursera.org/account/accomplishments/professional-cert/WW9644437KWW'><img width="80" src="https://github.com/user-attachments/assets/354c4f70-2bb7-4bf7-b5e2-d118c35c94a4"></a> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+<p align="left">
+    <a href='https://www.coursera.org/account/accomplishments/certificate/1B2PK3CJO8YZ'><img width="80" src="https://github.com/user-attachments/assets/80fed28d-5e87-4bbe-ab8e-6318f46a097b"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://www.credly.com/badges/210c8fad-3003-43a2-b583-23424abf1885'><img width="80" src="https://github.com/user-attachments/assets/ce8387da-278c-4327-9a3a-d735cf4569c7"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://www.credly.com/badges/3c870fd1-dc11-44f6-b7e9-23b680f92671'><img width="80" src="https://github.com/user-attachments/assets/a08e5dfc-c7bc-4adf-afe8-52d66aeeebed"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://www.credly.com/badges/6dccf0c7-fdc3-4c83-9b18-55a1e5bdff2b'><img width="80" src="https://github.com/user-attachments/assets/c9722499-1bca-462c-a193-5e5ee59a2851"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://www.credly.com/badges/979b4354-533e-4f36-8929-ce55e5216509'><img width="80" src="https://github.com/user-attachments/assets/2e81bc61-5576-47be-bd6f-f931391dde77"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href='https://www.coursera.org/account/accomplishments/professional-cert/WW9644437KWW'><img width="80" src="https://github.com/user-attachments/assets/354c4f70-2bb7-4bf7-b5e2-d118c35c94a4"></a> 
+</p>
